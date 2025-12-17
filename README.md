@@ -1,0 +1,1 @@
+this project takes transactions add  them to DB if it is a valid one with a valid currency code using locale the response is response envilope json format,just run and input json body with transaction details
